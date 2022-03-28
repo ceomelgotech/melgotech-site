@@ -39,11 +39,13 @@ const Navbar = () => {
                                         <li className="nav-item">
                                             <Link to="/contact" aria-label="Toggle navigation">Contact Us</Link>
                                         </li>
+                                        <li className="nav-item">
+                                             <div class="button">
+                                                  <Link to="/qoute" aria-label="Toggle navigation">Get Qoute</Link>
+                                             </div>
+                                        </li>
                                         
                                     </ul>
-                                </div>
-                                <div className="button">
-                                    <a href="/quote" className="signup">Get A Quote</a>
                                 </div>
                             </nav>
 
