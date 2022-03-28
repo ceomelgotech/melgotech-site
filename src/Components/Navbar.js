@@ -38,12 +38,11 @@ const Navbar = () => {
                                         </li>
                                         <li className="nav-item">
                                             <Link to="/contact" aria-label="Toggle navigation">Contact Us</Link>
-                                        </li>
-                                        
+                                        </li>                                        
                                     </ul>
                                 </div>
-                                <div className="button">
-                                    <Link to="/quote" className="signup">Get A Quote</Link>
+                                <div class="button">
+                                    <Link to="/quote" class="signup">Get a Qoute</Link>
                                 </div>
                             </nav>
 
