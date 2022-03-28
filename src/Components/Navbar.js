@@ -40,9 +40,9 @@ const Navbar = () => {
                                             <Link to="/contact" aria-label="Toggle navigation">Contact Us</Link>
                                         </li>                                        
                                     </ul>
-                                </div>
-                                <div class="button">
-                                    <Link to="/quote" class="signup">Get a Qoute</Link>
+                                    <div class="button">
+                                        <Link href="/quote" class="signin">Get your Qoute</Link>
+                                    </div>
                                 </div>
                             </nav>
 
